@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email - sonalipatra20.11.2003@gmail.com |
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ... I sleep more than cats!!!
+- ⚡ Fun fact: ... I can sleep more than cats!!!
 
 
 
