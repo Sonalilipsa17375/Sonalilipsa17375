@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email - sonalipatra20.11.2003@gmail.com |
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ... I can code all day, but my one weakness is a plate of freshly baked cookies and some corn!
+- ⚡ Fun fact: ... I sleep more than cats!!!
 
 
 
