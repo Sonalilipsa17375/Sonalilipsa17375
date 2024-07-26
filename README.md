@@ -1,3 +1,11 @@
+# Welcome to My GitHub Profile!
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Sonalilipsa17375)
+
+## About Me
+I am a 3rd-year student of Electrical Engineering at National Institute of Technology Rourkela.
+
+
 - 👋 Hi, I’m Sonali Lipsa Patra
 - 👀 I have a keen interest in WebDev and love to learn new tech 
 - 💞️ I’m looking to collaborate on ...
