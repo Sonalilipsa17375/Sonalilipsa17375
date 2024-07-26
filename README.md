@@ -1,15 +1,19 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME)
 
 ## About Me
 I am a 3rd-year student of Electrical Engineering at National Institute of Technology Rourkela.
 
-
 - 👋 Hi, I’m Sonali Lipsa Patra
-- 👀 I have a keen interest in WebDev and love to learn new tech 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email - sonalipatra20.11.2003@gmail.com |
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ... I can sleep more than cats!!!
+- 👀 I have a keen interest in WebDev and love to learn new tech
+- 💞️ I’m looking to collaborate on exciting projects and innovative ideas
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sonalipatra20.11.2003@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can sleep more than cats!
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-lipsa-patra-b17195250/)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sonalipatra20.11.2003@gmail.com)
+
 
 
 
