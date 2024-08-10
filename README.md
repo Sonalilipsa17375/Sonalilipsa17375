@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME)
+
 
 ## About Me
 I am a 3rd-year student of Electrical Engineering at National Institute of Technology Rourkela.
