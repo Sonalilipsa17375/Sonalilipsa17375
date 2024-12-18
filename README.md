@@ -16,6 +16,12 @@ I am a 3rd-year student of Electrical Engineering at National Institute of Techn
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-lipsa-patra-b17195250/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sonalipatra20.11.2003@gmail.com)
 
+## 📊 GitHub Stats  
+
+![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonalilipsa17375&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalilipsa17375&layout=compact&theme=radical)  
+![Sonali's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sonalilipsa17375&theme=radical)  
+
 
 
 
