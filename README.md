@@ -3,7 +3,6 @@
 
 
 ## About Me
-I am a prefinal year student of Electrical Engineering at National Institute of Technology Rourkela.
 
 - 👋 Hi, I’m Sonali Lipsa Patra
 - 👀 I have a keen interest in WebDev and love to learn new tech
