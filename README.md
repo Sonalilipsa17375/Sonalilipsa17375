@@ -8,8 +8,7 @@
 - 👀 I have a keen interest in WebDev and love to learn new tech
 - 💞️ I’m looking to collaborate on exciting projects and innovative ideas
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sonalipatra20.11.2003@gmail.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can sleep more than cats!
+
 
 ## 📊 GitHub Stats  
 
